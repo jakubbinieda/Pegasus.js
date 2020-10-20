@@ -36,7 +36,7 @@ Import files from our GitHub repository like this:
 ```html
 <html>
 	<script src="https://cdn.jsdelivr.net/gh/jakubbinieda/pegasus.js@v0.0.1/pegasus.js"></script>
-	<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jakubbinieda/pegasus.js@v0.0.1/pegasus.css">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jakubbinieda/pegasus.js-test@0.0.1/pegasus.css">
 </html>
 ```
 ## Usage
